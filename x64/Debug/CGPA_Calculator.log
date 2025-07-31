@@ -1,0 +1,7 @@
+﻿  calculator.cpp
+C:\Users\AMMAN\source\repos\CGPA_Calculator\CGPA_Calculator\calculator.cpp(44,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AMMAN\source\repos\CGPA_Calculator\CGPA_Calculator\calculator.cpp(48,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AMMAN\source\repos\CGPA_Calculator\CGPA_Calculator\calculator.cpp(52,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AMMAN\source\repos\CGPA_Calculator\CGPA_Calculator\calculator.cpp(56,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AMMAN\source\repos\CGPA_Calculator\CGPA_Calculator\calculator.cpp(60,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CGPA_Calculator.vcxproj -> C:\Users\AMMAN\source\repos\CGPA_Calculator\x64\Debug\CGPA_Calculator.exe
